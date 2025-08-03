@@ -16,7 +16,7 @@ Description: Displays the battery's State of Charge over time.
 Observation: Shows a gradual decline from a high value to a lower level over approximately 800 time units, with minor fluctuations indicating discharge during operation.
 
 Insight: Reflects realistic battery usage under a simulated drive cycle.
-![SOC Curve](image.png)
+![SOC Curve](<Screenshot 2025-08-04 005005.png>)
 
 # Current Drawn from Battery Graph
 
